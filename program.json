@@ -1,0 +1,478 @@
+{
+    "1": {
+        "Type": "Progressive Overload Week 1",
+        "Goal": "Start at moderate intensity",
+        "Monday": {
+            "Type": "High",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Warm up": "15 min dynamic mobility + sprint buildups",
+                "A skips": "3x10m",
+                "Butt kicks": "3x10m",
+                "Sprints": "3x10m acceleration starts (2 min rest)",
+                "Flying sprints": "3x20m (3 min rest)",
+                "Depth jumps": "3x3 from 18\" box",
+                "Broad jumps": "3x4",
+                "Single-leg bounds": "2x5 each leg",
+                "Trap Bar Deadlift": "4x4 @ 80% 1RM",
+                "Bulgarian Split Squat": "3x6 each leg",
+                "Nordic Curls": "3x5",
+                "Hanging Leg Raises": "3x10"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": {
+                "Foam Rolling": "10 min (quads, glutes, calves)",
+                "Banded Stretches": "10 min (hip flexors, hamstrings)",
+                "Tempo Runs": "10x100m @ 70% effort, 30s walk rest",
+                "Optional Skill": "Easy throwing or cone footwork, 15 min"
+            }
+        },
+        "Wednesday": {
+            "Type": "High",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "Warm up": "15 min mini hurdles, lateral skips, sprint buildups",
+                "5-10-5 shuttle": "3 reps",
+                "T-drill": "2 reps",
+                "Reactive mirror drill": "3x10s bouts",
+                "Depth to lateral bound": "3x3 each side",
+                "Lateral hurdle hops": "3x4 per direction",
+                "Back Squat": "4x3 @ 80–85% 1RM",
+                "Step-ups with dumbbells": "3x6 each leg",
+                "Romanian Deadlift": "3x8",
+                "Ab Rollouts": "3x10"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": {
+                "CARs (Controlled Articular Rotations)": "10 min",
+                "Long-hold stretches": "15 min (hip flexors, adductors, hamstrings)",
+                "Zone 2 Cardio": "30 min jog/bike/row",
+                "Box breathing": "5 min (4-4-4-4 rhythm)"
+            }
+        },
+        "Friday": {
+            "Type": "High",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "A-skips, B-skips, Fast feet - 2x15m each",
+                "Sled push or hill sprints": "4x10m",
+                "Depth jump to vertical": "3x3",
+                "Pogo hops": "3x10",
+                "Pull-ups": "4x6 (weighted if possible)",
+                "Overhead press": "3x6",
+                "Inverted rows": "3x12",
+                "Farmer carries": "3x20m",
+                "Cable anti-rotation press": "3x10 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": {
+                "Light throwing drills": "15 min",
+                "Cone footwork or shadowing": "10-15 min",
+                "Stretching": "20 min",
+                "Optional": "Easy pickup or disc golf"
+            }
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": {
+                "Gentle walk or bike": "20 min",
+                "Breathing & mindfulness": "10 min",
+                "Optional yoga or contrast therapy": "As desired"
+            }
+        }
+    },
+
+    "2": {
+        "Type": "Progressive Overload Week 2",
+        "Goal": "Increase intensity & volume moderately",
+        "Monday": {
+            "Type": "High",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Warm up": "15 min dynamic mobility + sprint buildups",
+                "A skips": "3x10m",
+                "Butt kicks": "3x10m",
+                "Sprints": "3x15m acceleration starts (2 min rest)",
+                "Flying sprints": "4x20m (3 min rest)",
+                "Depth jumps": "3x3 from 18\" box",
+                "Broad jumps": "4x4",
+                "Single-leg bounds": "2x6 each leg",
+                "Trap Bar Deadlift": "4x5 @ 80–85% 1RM",
+                "Bulgarian Split Squat": "3x6 each leg",
+                "Nordic Curls": "3x6",
+                "Hanging Leg Raises": "3x12"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": {
+                "Foam Rolling": "10 min",
+                "Banded Stretches": "10 min",
+                "Tempo Runs": "12x100m @ 70% effort, 30s walk rest",
+                "Optional Skill": "Light throwing or cone drills"
+            }
+        },
+        "Wednesday": {
+            "Type": "High",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "Warm up": "15 min mini hurdles, lateral skips, sprint buildups",
+                "5-10-5 shuttle": "4 reps",
+                "T-drill": "2 reps",
+                "Reactive mirror drill": "3x12s bouts",
+                "Depth to lateral bound": "3x3 each side",
+                "Lateral hurdle hops": "3x5 per direction",
+                "Back Squat": "4x4 @ 85% 1RM",
+                "Step-ups with dumbbells": "3x7 each leg",
+                "Romanian Deadlift": "3x8",
+                "Ab Rollouts": "3x12"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": {
+                "CARs & deep hip stretches": "20 min",
+                "Zone 2 Cardio": "35 min",
+                "Cooldown & breathwork": "10 min"
+            }
+        },
+        "Friday": {
+            "Type": "High",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "A-skips, B-skips, Fast feet - 2x20m each",
+                "Sled push or hill sprints": "5x10m",
+                "Depth jump to vertical": "3x3",
+                "Pogo hops": "3x12",
+                "Pull-ups": "4x6 (weighted if possible)",
+                "Overhead press": "3x6",
+                "Inverted rows": "3x12",
+                "Farmer carries": "4x20m",
+                "Cable anti-rotation press": "3x10 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": {
+                "Light throwing drills": "20 min",
+                "Cone footwork or shadowing": "15 min",
+                "Stretching": "20 min",
+                "Optional": "Easy pickup or disc golf"
+            }
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": {
+                "Gentle walk or bike": "20 min",
+                "Optional yoga or sauna": "As desired"
+            }
+        }
+    },
+
+    "3": {
+        "Type": "Progressive Overload Week 3",
+        "Goal": "Further increase intensity and volume",
+        "Monday": {
+            "Type": "High",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Sprints": "4x15m acceleration starts",
+                "Flying sprints": "4x25m",
+                "Depth jumps": "3x3 from 24\" box",
+                "Broad jumps": "4x4",
+                "Single-leg bounds": "3x6 each leg",
+                "Trap Bar Deadlift": "5x4 @ 85% 1RM",
+                "Bulgarian Split Squat": "4x6",
+                "Nordic Curls": "3x6",
+                "Hanging Leg Raises": "3x15"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": "Same as Week 2"
+        },
+        "Wednesday": {
+            "Type": "High",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "5-10-5 shuttle": "4 reps",
+                "L-drill": "3 reps",
+                "Reactive cone chase": "4x12s bouts",
+                "Back Squat": "5x2 @ 90% 1RM",
+                "Step-ups with dumbbells": "4x6",
+                "Romanian Deadlift": "4x8",
+                "Ab Rollouts": "3x15"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": "Same as Week 2"
+        },
+        "Friday": {
+            "Type": "High",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "2x25m",
+                "Hill sprints": "5x12m",
+                "Pull-ups": "5x6 (weighted)",
+                "Overhead press": "4x5",
+                "Inverted rows": "3x15",
+                "Farmer carries": "4x25m",
+                "Cable anti-rotation press": "3x12 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": "Same as Week 2"
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": "Same as Week 2"
+        }
+    },
+
+    "4": {
+        "Type": "Progressive Overload Week 4",
+        "Goal": "Peak intensity, high volume",
+        "Monday": {
+            "Type": "High",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Sprints": "4x20m acceleration starts",
+                "Flying sprints": "5x25m",
+                "Depth jumps": "4x3 from 24\" box",
+                "Broad jumps": "5x4",
+                "Single-leg bounds": "3x7 each leg",
+                "Trap Bar Deadlift": "5x5 @ 90% 1RM",
+                "Bulgarian Split Squat": "4x7",
+                "Nordic Curls": "3x7",
+                "Hanging Leg Raises": "4x15"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": {
+                "Foam Rolling": "10 min",
+                "Banded Stretches": "10 min",
+                "Tempo Runs": "14x100m @ 70% effort, 30s rest",
+                "Optional Skill": "Light throwing or cone drills"
+            }
+        },
+        "Wednesday": {
+            "Type": "High",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "5-10-5 shuttle": "5 reps",
+                "T-drill": "3 reps",
+                "Reactive mirror drill": "4x15s bouts",
+                "Back Squat": "5x3 @ 90% 1RM",
+                "Step-ups with dumbbells": "4x7",
+                "Romanian Deadlift": "4x10",
+                "Ab Rollouts": "4x15"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": {
+                "CARs & deep hip stretches": "20 min",
+                "Zone 2 Cardio": "40 min",
+                "Cooldown & breathwork": "10 min"
+            }
+        },
+        "Friday": {
+            "Type": "High",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "2x25m",
+                "Hill sprints": "6x12m",
+                "Pull-ups": "5x6 (weighted)",
+                "Overhead press": "4x6",
+                "Inverted rows": "4x15",
+                "Farmer carries": "5x25m",
+                "Cable anti-rotation press": "4x12 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": "Same as Week 2"
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": "Same as Week 2"
+        }
+    },
+
+    "5": {
+        "Type": "Progressive Overload Week 5",
+        "Goal": "Max intensity before deload",
+        "Monday": {
+            "Type": "High",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Sprints": "5x20m acceleration starts",
+                "Flying sprints": "5x30m",
+                "Depth jumps": "4x4 from 30\" box",
+                "Broad jumps": "5x5",
+                "Single-leg bounds": "4x7 each leg",
+                "Trap Bar Deadlift": "5x5 @ 90–95% 1RM",
+                "Bulgarian Split Squat": "4x8",
+                "Nordic Curls": "4x7",
+                "Hanging Leg Raises": "4x15"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": {
+                "Foam Rolling": "10 min",
+                "Banded Stretches": "10 min",
+                "Tempo Runs": "16x100m @ 70% effort, 30s rest",
+                "Optional Skill": "Light throwing or cone drills"
+            }
+        },
+        "Wednesday": {
+            "Type": "High",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "5-10-5 shuttle": "5 reps",
+                "L-drill": "3 reps",
+                "Reactive cone chase": "5x15s bouts",
+                "Back Squat": "5x3 @ 92–95% 1RM",
+                "Step-ups with dumbbells": "4x8",
+                "Romanian Deadlift": "4x10",
+                "Ab Rollouts": "4x20"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": {
+                "CARs & deep hip stretches": "20 min",
+                "Zone 2 Cardio": "40 min",
+                "Cooldown & breathwork": "10 min"
+            }
+        },
+        "Friday": {
+            "Type": "High",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "2x30m",
+                "Hill sprints": "6x15m",
+                "Pull-ups": "5x7 (weighted)",
+                "Overhead press": "4x6",
+                "Inverted rows": "4x15",
+                "Farmer carries": "5x25m",
+                "Cable anti-rotation press": "4x15 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": "Same as Week 2"
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": "Same as Week 2"
+        }
+    },
+
+    "6": {
+        "Type": "Deload Week",
+        "Goal": "Recovery and CNS reset",
+        "Monday": {
+            "Type": "Low",
+            "Goal": "Speed & Lower Body Power",
+            "Work": {
+                "Warm up": "10 min easy jog + mobility",
+                "A skips": "2x10m",
+                "Butt kicks": "2x10m",
+                "Sprints": "2x10m @ 60% effort",
+                "Depth jumps": "2x3 from 12\" box",
+                "Trap Bar Deadlift": "3x3 @ 60% 1RM",
+                "Bulgarian Split Squat": "2x5 each leg, light",
+                "Nordic Curls": "2x5, slow and controlled",
+                "Hanging Leg Raises": "2x10"
+            }
+        },
+        "Tuesday": {
+            "Type": "Low",
+            "Goal": "Tempo & Recovery",
+            "Work": {
+                "Foam Rolling": "10 min",
+                "Banded Stretches": "10 min",
+                "Tempo Runs": "8x100m @ 60% effort, 1 min rest",
+                "Optional Skill": "Light throwing or cone drills"
+            }
+        },
+        "Wednesday": {
+            "Type": "Low",
+            "Goal": "Agility & Reactive Strength",
+            "Work": {
+                "Warm up": "10 min mobility drills",
+                "5-10-5 shuttle": "2 reps @ 60%",
+                "T-drill": "2 reps @ 60%",
+                "Reactive mirror drill": "2x10s",
+                "Back Squat": "3x3 @ 60% 1RM",
+                "Step-ups with dumbbells": "2x5 each leg, light",
+                "Romanian Deadlift": "2x8 @ 60%",
+                "Ab Rollouts": "2x10"
+            }
+        },
+        "Thursday": {
+            "Type": "Low",
+            "Goal": "Mobility & Aerobic Base",
+            "Work": {
+                "CARs & deep hip stretches": "20 min",
+                "Zone 2 Cardio": "30 min easy",
+                "Cooldown & breathwork": "10 min"
+            }
+        },
+        "Friday": {
+            "Type": "Low",
+            "Goal": "Sprint Mechanics & Upper Body Strength",
+            "Work": {
+                "Sprint drills": "2x15m @ 60%",
+                "Hill sprints": "3x10m easy",
+                "Pull-ups": "3x5, bodyweight",
+                "Overhead press": "2x6 @ 60%",
+                "Inverted rows": "2x10",
+                "Farmer carries": "3x15m light",
+                "Cable anti-rotation press": "2x10 per side"
+            }
+        },
+        "Saturday": {
+            "Type": "Low",
+            "Goal": "Skill & Active Recovery",
+            "Work": "Same as Week 2"
+        },
+        "Sunday": {
+            "Type": "Rest",
+            "Goal": "Full Recovery",
+            "Work": "Gentle walk or bike: 20 min; Breathing & mindfulness: 10 min"
+        }
+    }
+}
+
