@@ -4,20 +4,6 @@ from dotenv import load_dotenv
 import os
 import smtplib
 
-# PDF generation class
-mesocycle_text = """\
-Week 1: Base Loading - Introduce all elements with moderate intensity.
-Week 2: Progressive Overload - Slight increase in volume and load.
-Week 3: Peak Loading - Maximize intensity; CNS stress is highest.
-Week 4: Deload and Testing - Reduce volume, test performance.
-
-Testing:
-- Vertical Jump
-- Broad Jump
-- Flying 10m Sprint
-- 5-10-5 Agility Shuttle
-"""
-
 days = {
     0: "Monday",
     1: "Tuesday",
@@ -40,9 +26,11 @@ load_dotenv()
 EMAIL = os.getenv("EMAIL")
 PASSWORD = os.getenv("PASSWORD")
 PHONE = os.getenv("PHONE")
-START_DAY = 150
+START_DAY = 153
 
-def load_program(week, day):
+def load_program(training_day):
+    week = 1 + (training_day // 7)
+    day = days[training_day % 7]
     with open('program.json', 'r') as f:
         program_data = json.load(f)
 
@@ -53,17 +41,19 @@ def load_program(week, day):
             "Type": week["Type"],
             "Goal": week["Goal"],
         },
-        "Day": week[day]
+        "Day": week[day],
+        "Training Day": training_day,
     }
 
 
 def fmt_plan(plan):
-    out = ""
+    training_day = plan["Training Day"]
     week = plan["Week"]
     day = plan["Day"]
-
+    out = ""
+    out += f"Day {training_day+1} of this training cycle.\n\n"
     out += f"{week['Type']}\n{week['Goal']}\n\n"
-    out += f"{day['Day']} is a {day['Type']} day, focusing on {day['Goal']}\n\n"
+    out += f"{day['Day']} is a {day['Type']} day, focusing on {day['Goal']}.\n\n"
     out += "Today's workload: \n"
     for exercise, volume in day["Work"].items():
         out += exercise + ": " + volume + "\n"
@@ -83,15 +73,17 @@ def send_message(phone_number, carrier, message):
 
 def main():
     day = datetime.now().timetuple().tm_yday
-    weekday = days[datetime.now().weekday()]
-
+    day = 153
     if day < START_DAY:
         print("Program not yet started")
         return
 
+    training_day = day - START_DAY
+    plan = fmt_plan(load_program(training_day))
 
-    week = 1 + ((day - START_DAY) // 7)
-    plan = fmt_plan(load_program(week, weekday))
+    if PHONE is None:
+        print("Error: no phone number found. Supply PHONE value in .env")
+        return
 
     err = send_message(PHONE, "att", plan)
     print("Errors sending:", err)
@@ -101,4 +93,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
