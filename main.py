@@ -73,7 +73,6 @@ def send_message(phone_number, carrier, message):
 
 def main():
     day = datetime.now().timetuple().tm_yday
-    day = 153
     if day < START_DAY:
         print("Program not yet started")
         return
